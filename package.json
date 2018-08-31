@@ -1,6 +1,6 @@
 {
   "name": "rn-draw-tinegocios",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Drawing library for react-native using svg.",
   "main": "index.js",
   "scripts": {
