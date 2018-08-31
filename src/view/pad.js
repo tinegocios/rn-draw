@@ -56,8 +56,13 @@ export default class Whiteboard extends React.Component {
     this._clientEvents = {
       rewind: rewind(this.rewind),
       clear: clear(this.clear),
+      result: result(this.result),
     }
     
+  }
+
+  result = () => {
+    return this.state.previousStrokes;
   }
 
   componentWillReceiveProps(newProps) {
