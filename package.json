@@ -1,5 +1,5 @@
 {
-  "name": "rn-draw",
+  "name": "rn-draw-tinegocios",
   "version": "0.0.7",
   "description": "Drawing library for react-native using svg.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jayeszee/rn-draw.git"
+    "url": "https://github.com/tinegocios/rn-draw.git"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   ],
   "author": "Jack Zhang <j@ckzhang.com>",
   "bugs": {
-    "url": "https://github.com/jayeszee/rn-draw/issues"
+    "url": "https://github.com/tinegocios/rn-draw/issues"
   },
   "license": "MIT",
   "peerDependencies": {
